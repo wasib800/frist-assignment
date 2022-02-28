@@ -1,0 +1,138 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.text-color{
+    color: #FF8367
+}
+.first-section h1{
+    font-size: 50px;
+    margin: 0;
+}
+.first-section p{
+    margin-bottom: 40px;
+}
+.first-section{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    height: 500px;
+    
+}
+.first-section img{
+    width: 100%;
+}
+.btn{
+    font-weight: 700;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 20px 60px 20px 50px;
+    background-color: rgb(251, 112, 98);
+    color: white;
+}
+
+
+.heading{
+text-align: center;
+padding-bottom: 34px;
+}
+
+/* additional sectiomn */
+
+    .half-desgine{
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left: 2%;
+    }
+    .line-color{
+        border: 2px solid red;
+    }
+    .half-desgine p{
+        margin-bottom: 50px;
+    }
+    /* Additional Section */
+
+.project-desgine{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 100%;
+}
+.project-desgine h3{
+    color: black;
+    font-weight: 700;
+    /* text-align: center; */
+}
+.project-desgine p{
+    color: black;
+    /* font-weight: 700; */
+    /* text-align: center; */
+}
+.project-desgine a{
+    text-decoration: none;
+}
+.project-desgine img{
+    width: 100%;
+}
+
+#project{
+    height: 600px;
+    background-color: rgb(248, 249, 252);
+    display: block;
+    clear: both;
+    padding-top: 60px;
+}
+
+#inquiry{
+    width: 50%;
+    background-size: 100%;
+    background-position: center;
+    /* display: block; */
+    margin-left: auto;
+    margin-right: auto;
+    /* text-align: center; */
+    background-repeat: no-repeat;
+    height: 300px;
+    background-image: url(images/Group_33094_1.png);
+ 
+}
+.inquiry-desgine{
+    padding-left: 70px;
+    padding-top: 104px;
+    font-weight: 700;
+    float: left;
+    
+}
+.inquiry-desgine .head-desgine{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+.btn-1{
+    font-weight: 700;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 20px 50px 20px 50px;
+    background-color:rgb(251, 112, 98);
+    color: white;
+    float: left;
+    margin: 10px 20px 80px 400px;
+    margin-top: -70px
+}
+.last-part{
+    text-align: center;
+}
+.last-part h3{
+    color: rgb(226, 226, 228);
+}
+.last-part img{
+    height: 50px;
+    padding: 5px;
+}
